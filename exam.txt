@@ -1,0 +1,19 @@
+1 => C
+2 => A
+3 => C
+4 => C
+5 => C
+6 => A
+7 => d
+8 => b
+9 => a
+10 => d
+11 =>c
+12 => b
+13 => c
+
+
+{name:"mango",price:90},{name:"vanilla",price:80},{name:"chocolate",price:95},{name:"Roast Almond",price:110},{name:"Butter Scotch",price:90},{name:"Cranberry",price:95},{name:"Hazelnut",price:95},{name:"strawberry",price:85},{name:"pineapple",price:85}
+
+
+{ref_id:ObjectId("64b26c8610c7176537a1c4d0"),container:"cup",noscope:1,price:90}

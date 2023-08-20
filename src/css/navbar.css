@@ -1,0 +1,15 @@
+nav{
+
+    background-color: bisque;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+}
+ul{
+    display: flex
+}
+li{
+    list-style-type: none;
+    margin-right: 20px;
+    font-size: 20px;
+}
